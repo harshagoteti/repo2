@@ -1,1 +1,2 @@
 testing file with new branch
+adding some information in this file testing.txt and push using master for checking as a log and commits
